@@ -1,0 +1,3 @@
+rm -f ~/workspace.tar.gz && rm  -f ~/work/workspace.tar.gz
+tar -czf ~/workspace.tar.gz ~/work
+mv ~/workspace.tar.gz ~/work/workspace.tar.gz
